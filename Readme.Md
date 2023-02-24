@@ -1,4 +1,4 @@
-                  The standard procedure for writing Verilog code for digital designs involves the following steps:
+##The standard procedure for writing Verilog code for digital designs involves the following steps:
 
 1. Understanding the specifications: Read and understand the system requirements, specifications, and constraints.
 
@@ -25,7 +25,7 @@
 Note: The above steps may vary slightly depending on the design flow and the tools used, but the general idea remains the same.
 
 
-                         Here's a Overview Verilog that includes some common concepts and syntax in the language:
+##Here's a Overview Verilog that includes some common concepts and syntax in the language:
 
 1.Data types: wire, reg, integer, real, etc.
 
@@ -50,3 +50,63 @@ Note: The above steps may vary slightly depending on the design flow and the too
 11.Structural modeling: instantiation of modules and use of parameter to pass values.
 
 12.Preprocessor directives: define`, include, ``ifdef, ``endif`, etc.
+
+##Problems
+
+1.Arthimatic Logic Unit(ALU)
+
+2.Bi Directional Buffer
+
+3.Binary to Gray Converter
+
+4.Carry Look Ahead Adder
+
+5.Decoder 3-8
+
+6.Dual Port Ram
+
+7.Encoder 3-8
+
+8.Even Parity Generation
+
+9.FIFO(first in first out)
+
+10.Full Adder
+
+11.Full Adder using Halfadder 
+
+12.Full Subtractor
+
+13.Full Subtractor Using HalfAdder
+
+14.Gray to Binary Converter
+
+15.Half Adder
+
+16.Half Subtractor
+
+17.Melay 101&110
+
+18.Mod11 Counter
+
+19.Moore 101&110
+
+20.Mux 8*1
+
+21.Mux And Gate
+
+22.N_bit Comparator
+
+23.Odd-parity Generator
+
+24.Priority Encoder 8*1
+
+25.Ripple Carry Adder
+
+26.Single_Port_ram
+
+27.SR_FF
+
+ 
+
+
