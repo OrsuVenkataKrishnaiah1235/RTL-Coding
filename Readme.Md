@@ -1,4 +1,4 @@
-## The standard procedure for writing Verilog code for digital designs involves the following steps:
+# The standard procedure for writing Verilog code :
 
 1. Understanding the specifications: Read and understand the system requirements, specifications, and constraints.
 
@@ -25,7 +25,7 @@
 Note: The above steps may vary slightly depending on the design flow and the tools used, but the general idea remains the same.
 
 
-# Here's a Overview Verilog that includes some common concepts and syntax in the language:
+## Here's a Overview of  Verilog with some common concepts :
 
 1.Data types: wire, reg, integer, real, etc.
 
