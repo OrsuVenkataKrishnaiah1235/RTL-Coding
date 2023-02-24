@@ -25,7 +25,7 @@
 Note: The above steps may vary slightly depending on the design flow and the tools used, but the general idea remains the same.
 
 
-## Here's a Overview of  Verilog with some common concepts :
+# Here's a Overview of  Verilog with some common concepts :
 
 1.Data types: wire, reg, integer, real, etc.
 
